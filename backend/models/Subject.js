@@ -8,6 +8,7 @@
 
 // const Subject = mongoose.model("Subject", subjectSchema);
 // export default Subject;
+//hi sri
 import mongoose from "mongoose";
 
 const subjectSchema = new mongoose.Schema({
